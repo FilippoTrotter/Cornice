@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/dyne/starters",
+  "commit": "1c252a9bef9586a93d7dc10a4220ebab217daee5",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Cornice",
+      "project_slug": "cornice",
+      "project_description": "A tui for insert username and password",
+      "full_name": "Filippo Trotter",
+      "email": "filippo@dyne.org",
+      "repo": "github.com/FilippoTrotter/cornice",
+      "go_version": "1.22",
+      "_template": "https://github.com/dyne/starters"
+    }
+  },
+  "directory": "go"
+}
